@@ -1,7 +1,5 @@
 # Çoklu CNN Modelleri ile Fashion-MNIST Görüntü Sınıflandırması
 
-Bu proje, Fashion-MNIST veri setindeki kıyafet görüntülerini sınıflandırmak için farklı CNN mimarilerinden çıkarılan özelliklerin birleştirilmesini amaçlar. Çalışmada tek CNN modeli kullanımı ile çoklu CNN tabanlı özellik füzyonu karşılaştırılmıştır.
-
 ## Projenin Amacı
 
 Bu projede amaç, tek bir CNN modelinden elde edilen özellikler ile birden fazla CNN modelinden elde edilen özelliklerin birleştirilmesi durumunda sınıflandırma başarısının nasıl değiştiğini incelemektir.
