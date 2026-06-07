@@ -122,11 +122,9 @@ Fine-tuning sonuçları ise feature extraction ve fusion deneylerinin gerisinde 
 Örnek dosya yapısı:
 
 ```text
-project/
 │
-├── fashionmnist.py
-├── README.md
-└── rapor.pdf
+├── CNN_FashionMnist.py
+└── README.md
 ```
 
 ## Kullanılan Teknolojiler
@@ -141,6 +139,4 @@ project/
 - MobileNetV2
 - EfficientNetB0
 
-## Not
 
-Bu proje, derin öğrenme dersinde çoklu CNN tabanlı özellik çıkarımı ve özellik füzyonu yaklaşımını incelemek amacıyla hazırlanmıştır.
